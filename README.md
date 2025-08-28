@@ -7,7 +7,7 @@ Drone Control Simulation คือแอปพลิเคชันที่ใ�
 📲 Download APK
 คุณสามารถติดตั้งแอปพลิเคชันบน Android ได้โดยดาวน์โหลดไฟล์ที่นี่:
 
-👉 [Download Drone Simulator APK](./apk/bild_app.apk)
+👉 [Download Drone Simulator APK](./apk)
 
 
 ✨ Features
